@@ -127,6 +127,8 @@ A continuación se describen los elementos fundamentales para desarrollar los di
 
 ---
 ## Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
+<img width="295" height="161" alt="image" src="https://github.com/user-attachments/assets/6ad7b860-cb81-4853-b3c9-9b1e12d957b5" />
+
 
 A continuación se describe cada uno de los elementos clave para lograr una aplicación web completa, lista para ser utilizada por los usuarios finales:
 

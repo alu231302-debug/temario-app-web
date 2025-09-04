@@ -2,7 +2,8 @@
 
 Copilot said: ````markdown ## Propósito de Aprendizaje 1: Comprender los
 Markdown
-## Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web <img width="194" height="179" alt="image" src="https://github.com/user-attachments/assets/504cab27-df00-4689-b42e-df547e736494" />
+## Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web
+<img width="194" height="179" alt="image" src="https://github.com/user-attachments/assets/504cab27-df00-4689-b42e-df547e736494" />
 
 El desarrollo web es el proceso de crear aplicaciones y sitios accesibles desde cualquier dispositivo con navegador. Comienza con la creación de páginas web simples y ha evolucionado hasta aplicaciones complejas y dinámicas.
 
@@ -63,6 +64,8 @@ El control de versiones es fundamental para gestionar el desarrollo colaborativo
 - **Pull Requests:** Proceso para revisar y fusionar cambios en el código, promoviendo la colabor Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web
 
 ## Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
+<img width="238" height="160" alt="image" src="https://github.com/user-attachments/assets/88376cd3-6ead-4d33-9469-6c312d3b7301" />
+
 
 A continuación se describen los elementos fundamentales para desarrollar los distintos componentes y funcionalidades que conforman una aplicación web moderna:
 
